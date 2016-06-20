@@ -14,6 +14,8 @@
 
 [ColorWithCamera](https://github.com/yieryi/ColorWithCamera)
 
+[CircleProgressButton](https://github.com/yieryi/CircleProgressButton)
+
 ## 介绍
 
 ### banner 
@@ -39,3 +41,7 @@ tools 是一个Android开发的常用工具包，里面包含了一些常用的�
 ### ColorWithCamera
 
 这是一个小功能，能够通过手机的摄像头获取颜色！
+
+### CircleProgressButton
+
+CircleProgressButton 是一个带有进度的圆形按钮，模仿网易新闻客户端实现的！
