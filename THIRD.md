@@ -12,3 +12,6 @@
 - [retrofit](https://github.com/yieryi/retrofit.git)
 - [okhttp](https://github.com/square/okhttp.git)
 
+#### 插件化开发
+- [awesome-android](https://github.com/yieryi/awesome-android)
+
